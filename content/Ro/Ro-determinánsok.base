@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Táblázat
+    filters:
+      and:
+        - note["ro-oszlop"] == "determináns"
+    order:
+      - file.name
+      - aliases
+      - dv_def

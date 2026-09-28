@@ -1,0 +1,21 @@
+Vannak olyan esetek, amikor az akromatikus folt árnyékolása mint fekete vagy szürke szín játszik bele a jelentésadásba. Ez azt jelenti, hogy az akromatikus táblákon maga az árnyékolás kétféle ingerkvalitásként determinálhatja a választ:  
+- A szoros értelemben vett árnyékolással - ezt jelöljük a [[Ro-det-Hd|Hd]] különféle változataival; 
+- Azzal, hogy feketének vagy szürkének látjuk; ezt jelöljük a fekete színreakció különféle változataival. 
+A jelentésadás közben a v. sz.-nek a fehér színről is lehet élménye. Ennek leggyakoribb esete az, hogy a hátteret (a [[Ro-felf-zw|zw]]-t) fehér színnek látja, s ezt kifejezésre juttatja válaszában. Jóval ritkábban ugyan, de az is előfordul, hogy egy világosszürke részt lát és mond a v. sz. fehérnek. Ezekben az esetekben a fehér szín szerepét a jelentésadásban a determinánsok oszlopában jelöljük.  A fekete, ill. a fehér színnek a formához való viszonyát a szokásos három változatban jelöljük. A formavezérlésű változatot természetesen az adekvációs fok jelével is kiegészítjük (+, -, ±). Ezeknél a válaszoknál a színválaszok szokásos jeleit használjuk azzal a megkülönböztetéssel, hogy a fehér színnél a, a feketénél pedig n jelet teszünk a megfelelő jel elé. (Az "a" a latin albus = fehér, az "n" a latin niger = fekete rövidítése.) Eszerint a jelölésben mindkét csoportnak 3-3 változatát különítjük el.
+
+A fekete és fehér színválaszok megítélésénél sok jelölési hibalehetőség van. A fekete és fehér színt nem a tartalom alapján jelöljük, hanem csak akkor, ha meggyőződtünk arról, hogy a v. sz.-nek valóban volt fehér, ill. fekete színélménye. 
+- A hó- és jég színválaszoknál ez nyilvánvaló. 
+- Éppen így nyilvánvaló, ha a v. sz. kimondja, hogy fehér harangvirágot vagy fekete lepkét stb lát. 
+Jelölési probléma olyankor merül fel, amikor a tartalom utal a fehér vagy fekete színre, de az nincs kimondva. Ezekben az esetekben az utóteszt alapján döntünk. 
+
+Például: [[Ro-II.|II.]] (17) „Női szoknya". Ha a v. sz. az utótesztben azt mondja, hogy „Fehér szoknya", akkor [[Ro-felf-Dzw|Dzw]] [[Ro-det-aFFb|aFFb]]+, ha viszont azt mondja, hogy „Régi típusü krinolin", akkor [[Ro-felf-Dzw|Dzw]] [[Ro-det-formaválasz-F|F]]+. Vagy: [[Ro-V.|V.]] (18) „Két arab burnuszban". Ha az utótesztben azt mondja, hogy „A fehér ruhájuk miatt", akkor [[Ro-felf-Dzw|Dzw]] [[Ro-det-aFFb|aFFb]]+, ha azt mondja, hogy „Azért, mert el van takarva a fejük", akkor inkább [[Ro-felf-Dzw|Dzw]] [[Ro-det-formaválasz-F|F]]+.  
+
+Bonyodalmat okozhat a [[Ro-det-Hd|Hd]] és a fekete színválaszok elkülönítése is. A feketeszürke színválaszok mindig magukba foglalják a [[Ro-det-Hd|Hd]]-elemet, minthogy ilyen válasz csak akkor jöhet létre, ha az árnyékolás belejátszik a jelentésadásba. Ennek fordítottja azonban nem áll fenn: a [[Ro-det-Hd|Hd]] válaszok csak ritkán tartalmaznak fekete vagy szürke színelemet. A jelölésnél tehát mindenekelőtt azt kell figyelembe venni, hogy az árnyékolás szerepet játszik-e a jelentésadásban. Nem [[Ro-det-Hd|Hd]]-részletre adott fekete színválaszok csupán verbális beleszövések (az ötödik oszlopban jelöljük őket mint „fekete színhívás"[^1]). A determináns oszlopban ez az elem nem kap jelet. 
+
+Például: [[Ro-IX.|IX.]] (18) „Torony, csúnya fekete boszorkány lakik benne" [[Ro-felf-D|D]] [[Ro-det-F(Fb)|F(Fb)]]± . A „Fekete boszorkányt" az ötödik oszlopban jelöljük Színhívásként.  Második kritériumként azt kell figyelembe vennünk, hogy a [[Ro-det-Hd|Hd]] a szemlélet szintjén hozza létre a színbenyomást. 
+
+Például: [[Ro-I.|I.]] c „Családi címer. Fekete koporsókra szögeznek ilyet." [[Ro-felf-G|G]] [[Ro-det-formaválasz-F|F]]±. A fekete színelem a percepcióban nincs jelen, ebben az esetben csupán asszociatív úton kapcsolódik hozzá (ezt pedig az ötödik oszlopban jelöljük).  A válaszokat gyakran több elem determinálja, s ezek egyike a fekete vagy fehér szín. Ilyenkor ezt is jelöljük, tehát a második oszlopba több jel kerül.
+
+Több determináns előfordulása esetén az eddig tárgyalt jelek közül a fekete, a fehér és a kromatikus színelem járhat együtt, ezek magukban foglalják az esetleges formaelemet is. Ilyenkor tehát [[Ro-det-formaválasz-F|F]] jelet külön nem adunk, de a jelölésnél mérlegeljük az [[Ro-det-formaválasz-F|F]] szerepét.
+
+[^1]: Ilyen jelölés nincs. Mérei közben meggondolta magát.

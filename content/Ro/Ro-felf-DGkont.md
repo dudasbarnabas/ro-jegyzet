@@ -1,0 +1,17 @@
+---
+aliases:
+  - DGkont
+ro-oszlop: felfogótípus
+dv_def: E válasz szemléletek sűrítésének eredménye.
+---
+(def:: E válasz szemléletek sűrítésének eredménye.) A mechanizmus, amellyel a sűrítés létrejön, leginkább az álom képzetsűrítéseire emlékeztet. 
+Kritériumai:  
+- A v. sz.-nek egyidejűleg két különböző szemlélete van a foltról - akár az egészről, akár valamelyik részletéről. 
+- A két percepciót mintegy egymásra fényképezve látja (teleszkopálja). 
+- Ennek a sűrített figurációnak ad jelentést.
+
+[[Ro-X.|X.]] „Tüdőrák" - A (6) a rák, a (10) a tüdő, a két szimultán észlelt percepció azonban önállóan nem kap jelentést, csak sűrítve. 
+[[Ro-VII.|VII.]] „Afrikai zsidó templomdísz". - Az utótesztből tudjuk, hogy a (2) egy zsidó fej, úgy, hogy a (8) a horgas orr; ugyanez a rész b állásban Afrika térképe. De a jelentésadásban sem a fej, sem a térkép nem jelent meg, hanem a kettő teleszkopálásával kapott harmadik szemléleti kép adja a válasz tartalmát. 
+[[Ro-IV.|IV.]] „Kutyafejű ember". - Az (1) a fej a két láb (4) között. Tehát a sűrítés révén a két egyébként jó részlet teljesen bizarr szemléleti képet ad.
+
+A DGkont válaszok tartalma rendszerint bizarr, formájuk abszurd. Ilyen magának Rorschachnak nevezetes példája a [[Ro-IV.|IV.]] táblán: „Egy szolid államférfi mája". - A v. sz.nek szimultán két egész-percepciója van: az ember és egy belső szerv, a kettő összevonásából jön ki a válasz. Jellegzetes a kontamináció bizarrságára ez a válasz: [[Ro-III.|III.]] „Madárkisasszony". A két egyidejű szemlélet: madárfej (4) és női cipő (17). - E bizarrságokban gyakran a verbális elem kerül túlsúlyba, és a teleszkopált szemléleti képhez tapadó képzetek is beleszövődnek az új jelentésbe. Például: [[Ro-I.|I.]] „Női és férfimedence, lehet, hogy közösülés: Ádám és Éva a Paradicsomban". A szemléleti kiindulás egyik eleme a medence, mint [[Ro-felf-G|G]] válasz, másik eleme a két alak (2), ezeknek teleszkopálásából jön ki a női és férfi medence. Valószínűleg ehhez asszociálja a közösülést, valamint a medence-borda-hiányzó borda fonalán a paradicsomi párt, amelyet a férfi-nő, Ádám- Éva társítás is vezérel. A kontamináció megítélésénél rendkívül szigorúan kell ragaszkodnunk a három kritériumhoz: szimultaneitás, Iclcszkopálás, a részletekhez képest új jelentés. Ezért mi nem jelölünk kontaminált másodlagos egészválasznak egy olyan típust, amelyet több szerző (például Neiger 1961/a) annak tekint. Ennek példája: [[Ro-IV.|IV.]] „Egy mágus mutatványa két kígyóval." - Kontamináció mellett szólna az, hogy a (8) a mágus karja és a kígyó egyszerre, tehát ez a részlet teleszkopált. Mégsem jelölhetjük kontaminációnak, mert a jelentés nem sűrítés eredménye. Éppen így nem jelöljük kontaminációnak ezt a gyermekválaszt: [[Ro-I.|I.]] „Agancsos hegy." - Az agancs (10,11), a hegy az egész. Ez a válaszfajta gyakori, s ezért is lényeges az elkülönítése. Ezekben a válaszokban a sűrítés nem szemléleti, csak verbális. Az agancs és a hegy nincs teleszkopálva, a két rész nincs egybevonva, csupán érintkezik. Amikor a gyerek azt mondja az [[Ro-I.|I.]] táblára: „Szárnyas hegy", akkor bizarr dolgot mondott, de nem sűrített, hanem csak verbálisán kapcsolta egybe a szemléletileg egymás mellett lévő, egymással érintkező tartalmakat. Márpedig a bizarrság nem kritériuma a kontaminációnak, hanem következménye.
